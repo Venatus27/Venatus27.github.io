@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Welcome to the game! Press [b]Spacebar[/b] while touching objects or NPC's to interact with them. Press Spacebar to also proceed the text and use arrows or WASD to select options.\nThis current build is just a small map with a few enemies and walls to test most implemented game features.\nWhat would you like to know about?\n[[ Controls | controlDesc]] [[ Attacks | attackDesc]] [[ Enemies | enemyDesc]]  [[ Dev Tools | DevTools]] [[ Close (double click required) | Close]]",
+		"position": {
+			"x": 114,
+			"y": -224
+		},
+		"colorID": 0
+	},
+	{
+		"title": "attackDesc",
+		"tags": "",
+		"body": "[b]Sword:[/b] Not a spell per say, does low damage but also costs nothing to use. Can be rotated around you with the mouse | No MP use/ Low damage.\n[b]Electric Shot:[/b] Fire an electric ball per click | medium MP use/ medium damage.\n[b]Wind Shot:[/b] Fire a beam of wind the penetrates through enemies | medium MP use/ low damage (goes through enemies).\n[b]Electric Burst:[/b] Fire electric balls in each cardinal and ordinal direction, can't be aimed but does high damage | High MP use/ High damage.\n[b]Speed Boost:[/b] Hold the mouse button to increase your speed at the cost of MP | Low MP use.\nWould you like to know about anything else?\n[[ Controls | controlDesc]] [[ Attacks | attackDesc]] [[ Enemies | enemyDesc]]  [[ Dev Tools | DevTools]] [[ Close (double click required) | Close]]",
+		"position": {
+			"x": -377,
+			"y": 553
+		},
+		"colorID": 0
+	},
+	{
+		"title": "enemyDesc",
+		"tags": "",
+		"body": "[b]Slimes[/b] will follow you and deal a small bit of damage on touch.\n[b]Ghosts[/b] will follow you and stop upon contact, preparing to explode before actually doing so after a second to deal high damage.\n[b]Statues[/b] can't move but will regularly fire magical attacks at you in quick succession, they also have the highest health of current enemies.\nWould you like to know about anything else?\n[[ Controls | controlDesc]] [[ Attacks | attackDesc]] [[ Enemies | enemyDesc]]  [[ Dev Tools | DevTools]] [[ Close (double click required) | Close]]",
+		"position": {
+			"x": 576,
+			"y": 37
+		},
+		"colorID": 0
+	},
+	{
+		"title": "controlDesc",
+		"tags": "",
+		"body": "-Use WASD or the arrow keys to move around.\n-Use left click on the mouse to fire spells, some aim at where your mouse is pointing while other have fixed firing or more supportive effects.\n-The mouse scroll wheel or top row numbers (1-4) can be used to change spells.\n-E is used to drink health potions while R is used to drink Mana potions\nWould you like to know about anything else?\n[[ Controls | controlDesc]] [[ Attacks | attackDesc]] [[ Enemies | enemyDesc]]  [[ Dev Tools | DevTools]] [[ Close (double click required) | Close]]",
+		"position": {
+			"x": -412,
+			"y": 24
+		},
+		"colorID": 0
+	},
+	{
+		"title": "DevTools",
+		"tags": "",
+		"body": "F1 toggles permanent invulnerability for the player\nF4 shows some game stats, currently limited to: FPS, Player position and player firing angle.\nPressing P damages the player for 50 health.\nWould you like to know about anything else?\n[[ Controls | controlDesc]] [[ Attacks | attackDesc]] [[ Enemies | enemyDesc]]  [[ Dev Tools | DevTools]] [[ Close (double click required) | Close]]",
+		"position": {
+			"x": 576,
+			"y": 528
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Close",
+		"tags": "",
+		"body": "",
+		"position": {
+			"x": 110,
+			"y": 861
+		},
+		"colorID": 0
+	}
+]
