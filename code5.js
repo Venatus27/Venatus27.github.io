@@ -78,7 +78,7 @@ gdjs.GameOverCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runt
 }if ( gdjs.GameOverCode.condition0IsTrue_0.val ) {
 {
 {gdjs.GameOverCode.conditionTrue_1 = gdjs.GameOverCode.condition1IsTrue_0;
-gdjs.GameOverCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11733004);
+gdjs.GameOverCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(13000676);
 }
 }}
 if (gdjs.GameOverCode.condition1IsTrue_0.val) {
