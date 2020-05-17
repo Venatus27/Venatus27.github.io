@@ -223,7 +223,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition3IsTrue_1 = {va
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition4IsTrue_1 = {val:false};
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a9674 = function(runtimeScene) {
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9a0d5c = function(runtimeScene) {
 
 {
 
@@ -296,8 +296,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1.createF
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a9674
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x252fcac = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9a0d5c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2c93c = function(runtimeScene) {
 
 {
 
@@ -312,8 +312,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x252fcac
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x23a63ec = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2c93c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2dc14 = function(runtimeScene) {
 
 {
 
@@ -328,8 +328,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x23a63ec
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2152e1c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2dc14
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x965b54 = function(runtimeScene) {
 
 {
 
@@ -371,14 +371,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38562468);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10668548);
 }
 }}
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val) {
 {runtimeScene.getVariables().get("DevTools").add(1);
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x252fcac(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2c93c(runtimeScene);} //End of subevents
 }
 
 }
@@ -528,7 +528,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38994068);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10673372);
 }
 }}
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val) {
@@ -539,7 +539,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2.createF
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x23a63ec(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2dc14(runtimeScene);} //End of subevents
 }
 
 }
@@ -608,8 +608,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2152e1c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a94a4 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x965b54
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2ef6c = function(runtimeScene) {
 
 {
 
@@ -617,7 +617,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a94a4 = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38544876);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10678604);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "GameOver");
@@ -640,8 +640,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a94a4
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2527f34 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2ef6c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x807eac = function(runtimeScene) {
 
 {
 
@@ -678,14 +678,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDGameOverObjects1.creat
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a94a4(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa2ef6c(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2527f34
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xc47674 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x807eac
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa30a6c = function(runtimeScene) {
 
 {
 
@@ -700,8 +700,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xc47674
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x248fa04 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa30a6c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa30df4 = function(runtimeScene) {
 
 {
 
@@ -716,8 +716,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x248fa04
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2080d2c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa30df4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x7e5b94 = function(runtimeScene) {
 
 {
 
@@ -895,7 +895,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 {runtimeScene.getVariables().getFromIndex(6).add(1);
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xc47674(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa30a6c(runtimeScene);} //End of subevents
 }
 
 }
@@ -911,14 +911,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 {runtimeScene.getVariables().getFromIndex(6).sub(1);
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x248fa04(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa30df4(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2080d2c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointObjects2Objects = Hashtable.newFrom({"FiringPoint": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSwordObjects3Objects = Hashtable.newFrom({"Sword": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSwordObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects3Objects = Hashtable.newFrom({"WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x208054c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x7e5b94
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointObjects2Objects = Hashtable.newFrom({"FiringPoint": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSwordObjects3Objects = Hashtable.newFrom({"Sword": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSwordObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects3Objects = Hashtable.newFrom({"WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa335bc = function(runtimeScene) {
 
 {
 
@@ -946,8 +946,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2.length 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x208054c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229a4bc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa335bc
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3181c = function(runtimeScene) {
 
 {
 
@@ -966,7 +966,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36284348);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10689300);
 }
 }}
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val) {
@@ -1003,7 +1003,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3.length = k;}if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38958556);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10690332);
 }
 }}
 }
@@ -1084,7 +1084,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3.length = k;}if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38991244);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10693076);
 }
 }}
 }
@@ -1137,14 +1137,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2.createF
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x208054c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa335bc(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229a4bc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x248fd44 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3181c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x971684 = function(runtimeScene) {
 
 {
 
@@ -1195,7 +1195,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229a4bc(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3181c(runtimeScene);} //End of subevents
 }
 
 }
@@ -1339,8 +1339,8 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.v
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x248fd44
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects2Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects2Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b38c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x971684
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects2Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects2Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa34df4 = function(runtimeScene) {
 
 {
 
@@ -1348,7 +1348,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38122964);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10702900);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}}
@@ -1356,8 +1356,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = ru
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b38c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b724 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa34df4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3519c = function(runtimeScene) {
 
 {
 
@@ -1365,7 +1365,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b724 = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38541788);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10703836);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}}
@@ -1373,8 +1373,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = ru
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b724
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1b44 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3519c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa35554 = function(runtimeScene) {
 
 {
 
@@ -1382,7 +1382,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1b44 = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38542732);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10704788);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}}
@@ -1390,8 +1390,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = ru
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1b44
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1edc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa35554
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa358e4 = function(runtimeScene) {
 
 {
 
@@ -1399,7 +1399,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1edc = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38543652);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10705724);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}}
@@ -1407,8 +1407,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = ru
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1edc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c22bc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa358e4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa35cd4 = function(runtimeScene) {
 
 {
 
@@ -1416,7 +1416,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c22bc = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36361868);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10706668);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}}
@@ -1424,8 +1424,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = ru
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c22bc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf13c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa35cd4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa349e4 = function(runtimeScene) {
 
 {
 
@@ -1433,7 +1433,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf13c = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38121948);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10701812);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}{}}
@@ -1458,7 +1458,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects3.length = k;}if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b38c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa34df4(runtimeScene);} //End of subevents
 }
 
 }
@@ -1481,7 +1481,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects3.length = k;}if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245b724(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3519c(runtimeScene);} //End of subevents
 }
 
 }
@@ -1504,7 +1504,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects3.length = k;}if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1b44(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa35554(runtimeScene);} //End of subevents
 }
 
 }
@@ -1527,7 +1527,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects3.length = k;}if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c1edc(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa358e4(runtimeScene);} //End of subevents
 }
 
 }
@@ -1549,14 +1549,14 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects2.length = k;}if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x24c22bc(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa35cd4(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf13c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects1Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf06c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa349e4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects1Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x96ea04 = function(runtimeScene) {
 
 {
 
@@ -1574,7 +1574,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf13c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa349e4(runtimeScene);} //End of subevents
 }
 
 }
@@ -1594,8 +1594,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf06c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22ada5c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x96ea04
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3628c = function(runtimeScene) {
 
 {
 
@@ -1609,7 +1609,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36363668);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10708436);
 }
 }}
 }
@@ -1619,8 +1619,8 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0.v
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22ada5c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22ad98c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3628c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9aafac = function(runtimeScene) {
 
 {
 
@@ -1629,14 +1629,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 {}
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22ada5c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3628c(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22ad98c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDChestObjects1Objects = Hashtable.newFrom({"Chest": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDChestObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDChestObjects1Objects = Hashtable.newFrom({"Chest": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDChestObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a7bac = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9aafac
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDChestObjects1Objects = Hashtable.newFrom({"Chest": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDChestObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDChestObjects1Objects = Hashtable.newFrom({"Chest": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDChestObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa36824 = function(runtimeScene) {
 
 {
 
@@ -1659,7 +1659,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDChestObjects1.length = k;}if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36339364);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10709804);
 }
 }}
 }
@@ -1677,8 +1677,8 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0.v
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a7bac
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a7adc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa36824
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9ae80c = function(runtimeScene) {
 
 {
 
@@ -1696,14 +1696,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a7bac(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa36824(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a7adc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2, "Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWaterObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2, "Water": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWaterObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWaterObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2, "Water": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWaterObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueShotObjects2Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects2, "WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects2, "StatueShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueShotObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWaterObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2, "Water": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWaterObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a831c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9ae80c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2, "Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWaterObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2, "Water": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWaterObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWaterObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2, "Water": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWaterObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueShotObjects2Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects2, "WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects2, "StatueShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueShotObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWaterObjects2Objects = Hashtable.newFrom({"Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects2, "Water": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWaterObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x7e46dc = function(runtimeScene) {
 
 {
 
@@ -1803,8 +1803,8 @@ for(var i = 0, len = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDS
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a831c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDHealthPotionObjects2Objects = Hashtable.newFrom({"HealthPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDHealthPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDManaPotionObjects2Objects = Hashtable.newFrom({"ManaPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDManaPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2081c94 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x7e46dc
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDHealthPotionObjects2Objects = Hashtable.newFrom({"HealthPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDHealthPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDManaPotionObjects2Objects = Hashtable.newFrom({"ManaPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDManaPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9768a4 = function(runtimeScene) {
 
 {
 
@@ -1873,7 +1873,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2.length = k;}if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition3IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36494276);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10716548);
 }
 }}
 }
@@ -1916,7 +1916,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1.length = k;}if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition3IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36401188);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10718092);
 }
 }}
 }
@@ -1934,8 +1934,8 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition3IsTrue_0.v
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2081c94
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects3Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3, "Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects4Objects = Hashtable.newFrom({"StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7434 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9768a4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects3Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3, "Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects4Objects = Hashtable.newFrom({"StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9b032c = function(runtimeScene) {
 
 {
 
@@ -1966,14 +1966,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDAlertTestObjects4.crea
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7434
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointEnemyObjects3Objects = Hashtable.newFrom({"FiringPointEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointEnemyObjects3Objects = Hashtable.newFrom({"FiringPointEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7874 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9b032c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointEnemyObjects3Objects = Hashtable.newFrom({"FiringPointEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointEnemyObjects3Objects = Hashtable.newFrom({"FiringPointEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9aff1c = function(runtimeScene) {
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7874
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointEnemyObjects3Objects = Hashtable.newFrom({"FiringPointEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueShotObjects3Objects = Hashtable.newFrom({"StatueShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245d2b4 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9aff1c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDFiringPointEnemyObjects3Objects = Hashtable.newFrom({"FiringPointEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDFiringPointEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueShotObjects3Objects = Hashtable.newFrom({"StatueShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueShotObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa39954 = function(runtimeScene) {
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x245d2b4
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects1Objects = Hashtable.newFrom({"StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects1Objects = Hashtable.newFrom({"StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7354 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa39954
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects1Objects = Hashtable.newFrom({"StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects1Objects = Hashtable.newFrom({"StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9b4734 = function(runtimeScene) {
 
 {
 
@@ -1993,7 +1993,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 
 { //Subevents: 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7434(runtimeScene);} //Subevents end.
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9b032c(runtimeScene);} //Subevents end.
 }
 }
 
@@ -2134,8 +2134,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7354
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects3Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3, "Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects4ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects4Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects4, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227af34 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9b4734
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWallObjects3Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3, "Wall": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWallObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects4ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects4Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects4, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects4Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3a88c = function(runtimeScene) {
 
 {
 
@@ -2168,8 +2168,8 @@ for(var i = 0, len = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDE
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227af34
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227ae54 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3a88c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3a7ac = function(runtimeScene) {
 
 {
 
@@ -2204,7 +2204,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 
 { //Subevents: 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227af34(runtimeScene);} //Subevents end.
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3a88c(runtimeScene);} //Subevents end.
 }
 }
 
@@ -2286,17 +2286,17 @@ for(var i = 0, len = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDE
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227ae54
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects3Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects3, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects3, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSwordObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3, "WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects3, "Sword": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSwordObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246131c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3a7ac
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects3Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects3, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects3, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects3ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSwordObjects3Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects3, "WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects3, "Sword": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSwordObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b444 = function(runtimeScene) {
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246131c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects3Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects3Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246150c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b444
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects3Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects3Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b674 = function(runtimeScene) {
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246150c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects3Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246188c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b674
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects3Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3ba8c = function(runtimeScene) {
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246188c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects2Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects2Objects = Hashtable.newFrom({"WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSwordObjects2Objects = Hashtable.newFrom({"Sword": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSwordObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDHealthPotionObjects2Objects = Hashtable.newFrom({"HealthPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDHealthPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDManaPotionObjects2Objects = Hashtable.newFrom({"ManaPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDManaPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects1Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x249539c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3ba8c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDLightningSingleShotObjects2Objects = Hashtable.newFrom({"LightningSingleShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDLightningSingleShotObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDWindShotObjects2Objects = Hashtable.newFrom({"WindShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDWindShotObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2ObjectsGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2, "ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2, "StatueEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSwordObjects2Objects = Hashtable.newFrom({"Sword": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSwordObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDHealthPotionObjects2Objects = Hashtable.newFrom({"HealthPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDHealthPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDManaPotionObjects2Objects = Hashtable.newFrom({"ManaPotion": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDManaPotionObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects1Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3c60c = function(runtimeScene) {
 
 {
 
@@ -2418,8 +2418,8 @@ for(var i = 0, len = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDS
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x249539c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227b844 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3c60c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b364 = function(runtimeScene) {
 
 {
 
@@ -2758,14 +2758,14 @@ for(var i = 0, len = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDS
 }{runtimeScene.getGame().getVariables().getFromIndex(6).add(1);
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x249539c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3c60c(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227b844
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2495d8c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b364
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDBasicHomingEnemyObjects2Objects = Hashtable.newFrom({"BasicHomingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDBasicHomingEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3d154 = function(runtimeScene) {
 
 {
 
@@ -2774,8 +2774,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2495d8c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2Objects = Hashtable.newFrom({"ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects2Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2468abc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3d154
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2Objects = Hashtable.newFrom({"ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDenemyLifeBarObjects2Objects = Hashtable.newFrom({"enemyLifeBar": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDenemyLifeBarObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3e0bc = function(runtimeScene) {
 
 {
 
@@ -2783,7 +2783,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38178124);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10740732);
 }
 }if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val) {
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects3.createFrom(gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2);
@@ -2821,8 +2821,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2468abc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2Objects = Hashtable.newFrom({"ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246951c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3e0bc
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDExplodingEnemyObjects2Objects = Hashtable.newFrom({"ExplodingEnemy": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects2Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects2});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3ed4c = function(runtimeScene) {
 
 {
 
@@ -2831,8 +2831,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246951c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueShotObjects1Objects = Hashtable.newFrom({"StatueShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueShotObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205b32c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3ed4c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects1Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDStatueShotObjects1Objects = Hashtable.newFrom({"StatueShot": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDStatueShotObjects1});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3f28c = function(runtimeScene) {
 
 {
 
@@ -2841,8 +2841,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205b32c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2495c1c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3f28c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3cfb4 = function(runtimeScene) {
 
 {
 
@@ -2870,7 +2870,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2495d8c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3d154(runtimeScene);} //End of subevents
 }
 
 }
@@ -2938,7 +2938,7 @@ for(var i = 0, k = 0, l = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCod
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2.length = k;}if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38561476);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10739036);
 }
 }}
 }
@@ -2988,7 +2988,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDExplodingEnemyObjects2
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2468abc(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3e0bc(runtimeScene);} //End of subevents
 }
 
 }
@@ -3054,7 +3054,7 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.v
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x246951c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3ed4c(runtimeScene);} //End of subevents
 }
 
 }
@@ -3082,14 +3082,14 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205b32c(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3f28c(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2495c1c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205b6ec = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3cfb4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3f68c = function(runtimeScene) {
 
 {
 
@@ -3128,8 +3128,8 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.v
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205b6ec
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205bbbc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3f68c
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3faec = function(runtimeScene) {
 
 {
 
@@ -3220,8 +3220,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDManaPotionTextObjects2
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205bbbc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086ffc = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3faec
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa407fc = function(runtimeScene) {
 
 {
 
@@ -3233,8 +3233,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086ffc = fu
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086ffc
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects3Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x208741c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa407fc
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDPlayerObjects3Objects = Hashtable.newFrom({"Player": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.mapOfGDgdjs_46TestLevel_9532for_9532the_9532tiles_9532and_9532gameplayCode_46GDSignObjects3Objects = Hashtable.newFrom({"Sign": gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDSignObjects3});gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa40ccc = function(runtimeScene) {
 
 {
 
@@ -3289,8 +3289,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDPlayerObjects4.createF
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x208741c
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229e6f4 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa40ccc
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa41ec4 = function(runtimeScene) {
 
 {
 
@@ -3308,11 +3308,11 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229e6f4 = fu
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = false;
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val = false;
 {
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeScene, "Space");
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val = gdjs.evtTools.input.anyKeyPressed(runtimeScene);
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36301540);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10756796);
 }
 }}
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val) {
@@ -3322,8 +3322,8 @@ if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.v
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229e6f4
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229ef64 = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa41ec4
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa426ac = function(runtimeScene) {
 
 {
 
@@ -3414,8 +3414,8 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229ef64
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086f2c = function(runtimeScene) {
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa426ac
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa4072c = function(runtimeScene) {
 
 {
 
@@ -3439,7 +3439,7 @@ for(var i = 0, len = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDD
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086ffc(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa407fc(runtimeScene);} //End of subevents
 }
 
 }
@@ -3484,7 +3484,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0.val =
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition2IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition3IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36562572);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10751804);
 }
 }}
 }
@@ -3492,7 +3492,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = ru
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition3IsTrue_0.val) {
 
 { //Subevents: 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x208741c(runtimeScene);} //Subevents end.
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa40ccc(runtimeScene);} //Subevents end.
 }
 }
 
@@ -3509,7 +3509,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36564476);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10753964);
 }
 }}
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val) {
@@ -3544,7 +3544,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val =
 }if ( gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition0IsTrue_0.val ) {
 {
 {gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1 = gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0;
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(36565108);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(10754668);
 }
 }}
 if (gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.condition1IsTrue_0.val) {
@@ -3596,7 +3596,7 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDDialogueTreeBBtextObje
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229e6f4(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa41ec4(runtimeScene);} //End of subevents
 }
 
 }
@@ -3638,13 +3638,13 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.GDquestionChoicesTextObj
 }
 }
 { //Subevents
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x229ef64(runtimeScene);} //End of subevents
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa426ac(runtimeScene);} //End of subevents
 }
 
 }
 
 
-}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086f2c
+}; //End of gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa4072c
 gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x5b70b8 = function(runtimeScene) {
 
 {
@@ -3657,119 +3657,119 @@ gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x5b70b8 = fun
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a9674(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9a0d5c(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2152e1c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x965b54(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2527f34(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x807eac(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2080d2c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x7e5b94(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x248fd44(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x971684(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22cf06c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x96ea04(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22ad98c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9aafac(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a7adc(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9ae80c(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22a831c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x7e46dc(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2081c94(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9768a4(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x22b7354(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x9b4734(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227ae54(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3a7ac(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x227b844(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3b364(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2495c1c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3cfb4(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205b6ec(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3f68c(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x205bbbc(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa3faec(runtimeScene);
 }
 
 
 {
 
 
-gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0x2086f2c(runtimeScene);
+gdjs.TestLevel_32for_32the_32tiles_32and_32gameplayCode.eventsList0xa4072c(runtimeScene);
 }
 
 

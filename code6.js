@@ -78,7 +78,7 @@ gdjs.EndCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(runtimeSc
 }if ( gdjs.EndCode.condition0IsTrue_0.val ) {
 {
 {gdjs.EndCode.conditionTrue_1 = gdjs.EndCode.condition1IsTrue_0;
-gdjs.EndCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(38622396);
+gdjs.EndCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(11751956);
 }
 }}
 if (gdjs.EndCode.condition1IsTrue_0.val) {

@@ -126,7 +126,7 @@ gdjs.evtsExt__Health__Health.Health.prototype.HitContext.conditionTrue_1.val = (
 }if ( gdjs.evtsExt__Health__Health.Health.prototype.HitContext.condition0IsTrue_0.val ) {
 {
 {gdjs.evtsExt__Health__Health.Health.prototype.HitContext.conditionTrue_1 = gdjs.evtsExt__Health__Health.Health.prototype.HitContext.condition1IsTrue_0;
-gdjs.evtsExt__Health__Health.Health.prototype.HitContext.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(16540356);
+gdjs.evtsExt__Health__Health.Health.prototype.HitContext.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(16547068);
 }
 }}
 if (gdjs.evtsExt__Health__Health.Health.prototype.HitContext.condition1IsTrue_0.val) {
