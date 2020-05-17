@@ -5,7 +5,7 @@ gdjs.evtsExt__PlayerControls__ShouldFire1.condition0IsTrue_0 = {val:false};
 gdjs.evtsExt__PlayerControls__ShouldFire1.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__PlayerControls__ShouldFire1.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__PlayerControls__ShouldFire1.eventsList0x5b75c8 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -19,7 +19,7 @@ gdjs.evtsExt__PlayerControls__ShouldFire1.condition0IsTrue_0.val = gdjs.evtTools
 }
 
 
-}; //End of gdjs.evtsExt__PlayerControls__ShouldFire1.eventsList0x5b7328
+}; //End of gdjs.evtsExt__PlayerControls__ShouldFire1.eventsList0x5b75c8
 
 
 gdjs.evtsExt__PlayerControls__ShouldFire1.func = function(runtimeScene, parentEventsFunctionContext) {
@@ -53,7 +53,7 @@ var eventsFunctionContext = {
 };
 
 
-gdjs.evtsExt__PlayerControls__ShouldFire1.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__PlayerControls__ShouldFire1.eventsList0x5b75c8(runtimeScene, eventsFunctionContext);
 return !!eventsFunctionContext.returnValue;
 }
 

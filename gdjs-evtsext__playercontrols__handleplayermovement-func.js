@@ -7,7 +7,7 @@ gdjs.evtsExt__PlayerControls__HandlePlayerMovement.condition0IsTrue_0 = {val:fal
 gdjs.evtsExt__PlayerControls__HandlePlayerMovement.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__PlayerControls__HandlePlayerMovement.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__PlayerControls__HandlePlayerMovement.eventsList0x5b75c8 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -80,7 +80,7 @@ gdjs.evtsExt__PlayerControls__HandlePlayerMovement.GDPlayerObjects1.createFrom(e
 }
 
 
-}; //End of gdjs.evtsExt__PlayerControls__HandlePlayerMovement.eventsList0x5b7328
+}; //End of gdjs.evtsExt__PlayerControls__HandlePlayerMovement.eventsList0x5b75c8
 
 
 gdjs.evtsExt__PlayerControls__HandlePlayerMovement.func = function(runtimeScene, Player, TopDownMovement, parentEventsFunctionContext) {
@@ -118,7 +118,7 @@ var eventsFunctionContext = {
 gdjs.evtsExt__PlayerControls__HandlePlayerMovement.GDPlayerObjects1.length = 0;
 gdjs.evtsExt__PlayerControls__HandlePlayerMovement.GDPlayerObjects2.length = 0;
 
-gdjs.evtsExt__PlayerControls__HandlePlayerMovement.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__PlayerControls__HandlePlayerMovement.eventsList0x5b75c8(runtimeScene, eventsFunctionContext);
 return;
 }
 

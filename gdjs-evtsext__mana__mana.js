@@ -30,7 +30,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.conditionTrue_0 = {val:false
 gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.condition0IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.eventsList0x5b7088 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -42,7 +42,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.GDObjectObjects1.createFrom(
 }
 
 
-}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.eventsList0x5b7088
+}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.eventsList0x5b7328
 
 
 gdjs.evtsExt__Mana__Mana.Mana.prototype.Mana = function(parentEventsFunctionContext) {
@@ -84,7 +84,7 @@ var eventsFunctionContext = {
 gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.GDObjectObjects1.length = 0;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.GDObjectObjects2.length = 0;
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.eventsList0x5b7088(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Mana__Mana.Mana.prototype.ManaContext.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
 return Number(eventsFunctionContext.returnValue) || 0;
 }
 gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext = {};
@@ -96,7 +96,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.condition0IsTrue_0 = {val:fal
 gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.eventsList0x5b7088 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -116,12 +116,13 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.GDObjectObjects1.length = k;}
 {for(var i = 0, len = gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.GDObjectObjects1.length ;i < len;++i) {
     gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.GDObjectObjects1[i].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._setMana(gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.GDObjectObjects1[i].getBehavior(eventsFunctionContext.getBehaviorName("Behavior"))._getMana() - ((typeof eventsFunctionContext !== 'undefined' ? Number(eventsFunctionContext.getArgument("Usage")) || 0 : 0)));
 }
+}{runtimeScene.getGame().getVariables().get("ManaUsed").add((typeof eventsFunctionContext !== 'undefined' ? Number(eventsFunctionContext.getArgument("Usage")) || 0 : 0));
 }}
 
 }
 
 
-}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.eventsList0x5b7088
+}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.eventsList0x5b7328
 
 
 gdjs.evtsExt__Mana__Mana.Mana.prototype.Use = function(Usage, parentEventsFunctionContext) {
@@ -164,7 +165,7 @@ if (argName === "Usage") return Usage;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.GDObjectObjects1.length = 0;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.GDObjectObjects2.length = 0;
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.eventsList0x5b7088(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Mana__Mana.Mana.prototype.UseContext.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
 return;
 }
 gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext = {};
@@ -176,7 +177,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.condition0IsTrue_0 = {v
 gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.eventsList0x5b7088 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -206,7 +207,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.GDObjectObjects1.length
 }
 
 
-}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.eventsList0x5b7088
+}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.eventsList0x5b7328
 
 
 gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnough = function(magicNeeded, parentEventsFunctionContext) {
@@ -249,7 +250,7 @@ if (argName === "magicNeeded") return magicNeeded;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.GDObjectObjects1.length = 0;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.GDObjectObjects2.length = 0;
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.eventsList0x5b7088(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Mana__Mana.Mana.prototype.hasEnoughContext.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
 return !!eventsFunctionContext.returnValue;
 }
 gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext = {};
@@ -261,7 +262,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.condition0IsTrue_0 = {va
 gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.eventsList0x5b7088 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -299,7 +300,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.GDObjectObjects1.length 
 }
 
 
-}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.eventsList0x5b7088
+}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.eventsList0x5b7328
 
 
 gdjs.evtsExt__Mana__Mana.Mana.prototype.HealMana = function(IncreaseValue, parentEventsFunctionContext) {
@@ -342,7 +343,7 @@ if (argName === "IncreaseValue") return IncreaseValue;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.GDObjectObjects1.length = 0;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.GDObjectObjects2.length = 0;
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.eventsList0x5b7088(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Mana__Mana.Mana.prototype.HealManaContext.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
 return;
 }
 gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext = {};
@@ -354,7 +355,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.condition0IsTrue_0 = {val
 gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.condition1IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.eventsList0x5b7088 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -384,7 +385,7 @@ gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.GDObjectObjects1.createFr
 }
 
 
-}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.eventsList0x5b7088
+}; //End of gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.eventsList0x5b7328
 
 
 gdjs.evtsExt__Mana__Mana.Mana.prototype.SetMana = function(Value, parentEventsFunctionContext) {
@@ -427,7 +428,7 @@ if (argName === "Value") return Value;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.GDObjectObjects1.length = 0;
 gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.GDObjectObjects2.length = 0;
 
-gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.eventsList0x5b7088(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Mana__Mana.Mana.prototype.SetManaContext.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
 return;
 }
 

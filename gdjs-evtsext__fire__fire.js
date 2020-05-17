@@ -30,7 +30,7 @@ gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.conditionTrue_0 = {val:false
 gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.condition0IsTrue_0 = {val:false};
 
 
-gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.mapOfGDgdjs_46evtsExt_95_95Fire_95_95Fire_46Fire_46prototype_46FireContext_46GDProjectileObjects1Objects = Hashtable.newFrom({"Projectile": gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.GDProjectileObjects1});gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.eventsList0x5b7088 = function(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.mapOfGDgdjs_46evtsExt_95_95Fire_95_95Fire_46Fire_46prototype_46FireContext_46GDProjectileObjects1Objects = Hashtable.newFrom({"Projectile": gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.GDProjectileObjects1});gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.eventsList0x5b7328 = function(runtimeScene, eventsFunctionContext) {
 
 {
 
@@ -47,7 +47,7 @@ gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.GDProjectileObjects1.length 
 }
 
 
-}; //End of gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.eventsList0x5b7088
+}; //End of gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.eventsList0x5b7328
 
 
 gdjs.evtsExt__Fire__Fire.Fire.prototype.Fire = function(XPos, YPos, Projectile, Angle, Speed, parentEventsFunctionContext) {
@@ -96,7 +96,7 @@ gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.GDObjectObjects2.length = 0;
 gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.GDProjectileObjects1.length = 0;
 gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.GDProjectileObjects2.length = 0;
 
-gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.eventsList0x5b7088(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__Fire__Fire.Fire.prototype.FireContext.eventsList0x5b7328(runtimeScene, eventsFunctionContext);
 return;
 }
 
